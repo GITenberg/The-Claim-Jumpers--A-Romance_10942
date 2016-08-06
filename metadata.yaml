@@ -1,0 +1,27 @@
+_repo: The-Claim-Jumpers--A-Romance_10942
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Stewart Edward
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '247'
+    url: http://www.gutenberg.org/2009/agents/247
+    wikipedia: http://en.wikipedia.org/wiki/Stewart_Edward_White
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Community life -- West (U.S.) -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: 'The Claim Jumpers: A Romance'
+url: http://www.gutenberg.org/ebooks/10942
